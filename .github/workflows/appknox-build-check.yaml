@@ -27,8 +27,8 @@ on:
         default: ""
 
 env:
-  APP_DIR: "11"
-  JAVA_VERSION: ""
+  APP_DIR: ""
+  JAVA_VERSION: "11"
 
 permissions:
   contents: read
